@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> LIVERPOOL THIS MEANS MORE ynwa 2023!!! </h1>
+   <h1> YOU'LL NEVER WALK ALONE 2023!!! </h1>
 
   
 </form>
